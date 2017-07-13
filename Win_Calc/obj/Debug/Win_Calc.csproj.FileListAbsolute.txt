@@ -7,3 +7,12 @@ c:\users\tyler loeper\documents\visual studio 2015\Projects\Win_Calc\Win_Calc\ob
 c:\users\tyler loeper\documents\visual studio 2015\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.Cache
 c:\users\tyler loeper\documents\visual studio 2015\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.exe
 c:\users\tyler loeper\documents\visual studio 2015\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.pdb
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\bin\Debug\Win_Calc.exe.config
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\obj\Debug\Win_Calc.exe
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\obj\Debug\Win_Calc.pdb
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\bin\Debug\Win_Calc.exe
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\bin\Debug\Win_Calc.pdb
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\obj\Debug\Win_Calc.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\obj\Debug\Win_Calc.Form1.resources
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+C:\Users\Tyler Loeper\Documents\Visual Studio 2015\Projects\Win_Calc\Windows_Forms_Calculator-Demo\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.Cache

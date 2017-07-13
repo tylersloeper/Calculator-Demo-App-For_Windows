@@ -275,15 +275,8 @@ namespace Win_Calc
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(102, 13);
             this.label1.TabIndex = 20;
-            //do the cool copyright year to year thing.
-            if(DateTime.Now.Year == 2017)
-            {
-                this.label1.Text = "Tyler Loeper Ⓒ2017";
-            }
-            else
-            {
-                this.label1.Text = "Tyler Loeper Ⓒ2017" + " - " + DateTime.Now.Year.ToString();
-            }
+            this.label1.Text = "Tyler Loeper Ⓒ2017" + " - " + DateTime.Now.Year.ToString();
+            
             
             // 
             // Form1
